@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset = "UTF-8">
+    <title> hobbies </title>
+  </head>
+  <body>
+    <h1> what i like </h1>
+    <u1>
+      <li> music </li>
+      <li> movie </li>
+      <li> game </li>
+    </u1>
+    <p> still adding features </p>
+  </body>
+</html>
